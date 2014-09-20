@@ -1,4 +1,4 @@
-getting_and_cleaning_data_project
+Getting_And_Cleaning_Data_Project
 =================================
 
 for coursera project
